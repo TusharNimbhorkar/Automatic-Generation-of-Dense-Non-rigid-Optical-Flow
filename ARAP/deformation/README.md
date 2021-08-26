@@ -38,11 +38,11 @@ be deformed is set to 0, background otherwise.
 ```
 Input
 
-![input_RGB](https://github.com/lhoangan/arap_flow/blob/master/ARAP/deformation/cat512_iRGB.png) ![input_Mask](./car512_iMsk.png)
+![input_RGB](cat512_iRGB.png) ![input_Mask](./cat512_iMsk.png)
 
 Output
 
-![warped_RGB](./car512_wRGB.png) ![warped_Mask](./car512_wMsk.png)
+![warped_RGB](./cat512_wRGB.png) ![warped_Mask](./cat512_wMsk.png)
 
 ## Troubleshooting
 
