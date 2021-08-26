@@ -38,11 +38,11 @@ be deformed is set to 0, background otherwise.
 ```
 Input
 
-![input_RGB](cat512_iRGB.png) ![input_Mask](./cat512_iMsk.png)
+![input_RGB](cat512_iRGB.png | width=100) ![input_Mask](./cat512_iMsk.png | width=100)
 
 Output
 
-![warped_RGB](./cat512_wRGB.png) ![warped_Mask](./cat512_wMsk.png)
+![warped_RGB](./cat512_wRGB.png | width=100) ![warped_Mask](./cat512_wMsk.png | width=100)
 
 ## Troubleshooting
 
