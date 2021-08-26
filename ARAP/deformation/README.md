@@ -42,7 +42,7 @@ Input
 
 Output
 
-![warped_RGB](./cat512_wRGB.png | width=100) ![warped_Mask](./cat512_wMsk.png | width=100)
+<img src="https://github.com/lhoangan/arap_flow/blob/master/ARAP/deformation/cat512_wRGB.png" width="200" height="200"> <img src="https://github.com/lhoangan/arap_flow/blob/master/ARAP/deformation/cat512_wMsk.png" width="200" height="200">
 
 ## Troubleshooting
 
