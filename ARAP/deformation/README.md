@@ -38,7 +38,7 @@ be deformed is set to 0, background otherwise.
 ```
 Input
 
-![input_RGB](cat512_iRGB.png | width=100) ![input_Mask](./cat512_iMsk.png | width=100)
+<img src="https://github.com/lhoangan/arap_flow/blob/master/ARAP/deformation/cat512_iRGB.png" width="200" height="200"> <img src="https://github.com/lhoangan/arap_flow/blob/master/ARAP/deformation/cat512_iMsk.png" width="200" height="200">
 
 Output
 
