@@ -39,11 +39,11 @@ marked with 255, background with 0.
 ```
 Input
 
-![input_RGB](car512_iRGB.png) ![input_Mask](car512_iMsk.png)
+![input_RGB](./car512_iRGB.png) ![input_Mask](./car512_iMsk.png)
 
 Output
 
-![warped_RGB](car512_wRGB.png) ![warped_Mask](car512_wMsk.png)
+![warped_RGB](./car512_wRGB.png) ![warped_Mask](./car512_wMsk.png)
 
 ## Troubleshooting
 
